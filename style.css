@@ -1,0 +1,20 @@
+body{
+    background-size:cover;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading {
+margin-top: 0;
+width:100%
+}
+
+#object_input,#start{
+    border-radius: 10px;;
+    font-size:18px;
+}
+
+canvas{
+    border:2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    margin-top:130px;
+}
